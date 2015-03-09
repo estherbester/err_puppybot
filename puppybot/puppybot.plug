@@ -1,0 +1,9 @@
+[Core]
+Name = PuppyBot 
+Module = puppybot
+
+[Python]
+Version = 2
+
+[Documentation]
+Description = Fetch me a flickr photo 
